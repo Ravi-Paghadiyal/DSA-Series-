@@ -17,6 +17,7 @@ public class Digit_sum {
 
     public static int product(int n){
 
+        
         if (n == 0) {
             return 1;
         }
